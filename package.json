@@ -1,0 +1,30 @@
+{
+  "name": "jev-system-one",
+  "version": "1.0.0",
+  "description": "Sub-100ms non-autoregressive decision engine and Agent Skill powered by TypeSafe AI's Jev",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node -e \"console.log('Jev TypeScript engine ready')\""
+  },
+  "keywords": [
+    "typesafe-ai",
+    "jev",
+    "system-one",
+    "decision-engine",
+    "agent-skill",
+    "antigravity",
+    "claude-code",
+    "openrouter"
+  ],
+  "author": "Javohirbek Asqarov (Jasper)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salomh46-rgb/jev-system-one-skill.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
